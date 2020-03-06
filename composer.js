@@ -15,7 +15,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "adminlee\\JCRD\\": "src"
+            "JCRD": "src"
         }
     },
      
