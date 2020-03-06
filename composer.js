@@ -12,10 +12,11 @@
     ], 
 	"require": {
 		"topthink/framework": "^5.0"
-    }, 
+    },
+	"minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "JCRD": "src"
+            "JCRD\\": "src"
         }
     }
      
